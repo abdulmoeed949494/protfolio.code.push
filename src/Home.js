@@ -9,8 +9,8 @@ const Home = () => {
         <h1 className='hh'>Developer</h1>
         <p className='pp'>I am frontend developer based in italy, i will help you build beautiful websites your users will love</p>
         <div className='homebtnjs'>
-        <butto className="btnhomeone">Get In Tech</butto>
-        <butto className="btnhometwo">Browse Projects</butto>
+        <button className="btnhomeone">Get In Tech</button>
+        <button className="btnhometwo">Browse Projects</button>
         </div>
     </div>
 
@@ -25,28 +25,3 @@ const Home = () => {
 
 export default Home;
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// import React from 'react'
-
-// const Home = () => {
-//   return (
-//     <div>
-//       HOME PAGE
-//     </div>
-//   )
-// }
-
-// export default Home

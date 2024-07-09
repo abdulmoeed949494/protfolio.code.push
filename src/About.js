@@ -13,27 +13,10 @@ const About = () => {
       <p className="aboutptwo">
         When I'm not coding, you can find me [Your Hobbies/Interests]. I'm currently based in [Your Location] and I'm always open to new opportunities and collaborations.
       </p>
+
     </div>
   );
 };
 
 export default About;
 
-
-
-
-
-
-
-
-// import React from 'react'
-
-// const About = () => {
-//   return (
-//     <div>
-//       ABOUT PAGE
-//     </div>
-//   )
-// }
-
-// export default About;
