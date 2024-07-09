@@ -11,22 +11,29 @@ const Skills = () => {
     </div>
 
     <div className='htmlmaindiv'>
-    <div className='htmldiv'> <h1 className='htmlh1'>
-      
+    <div className='htmldiv'> 
+      <h1 className='htmlh1'>
       CSS
-      </h1> </div>
+      </h1>
+       </div>
     </div>
 
     <div className='htmlmaindiv'>
-    <div className='htmldiv'> <h1 className='htmlh1'>JAVASCRIPT</h1> </div>
+    <div className='htmldiv'> 
+      <h1 className='htmlh1'>JAVASCRIPT</h1> 
+      </div>
     </div>
 
     <div className='htmlmaindiv'>
-    <div className='htmldiv'> <h1 className='htmlh1'>REACT JS</h1> </div>
+    <div className='htmldiv'> 
+      <h1 className='htmlh1'>REACT JS</h1>
+       </div>
     </div>
 
     <div className='htmlmaindiv'>
-    <div className='htmldiv'> <h1 className='htmlh1'>TAILWIND CSS</h1> </div>
+    <div className='htmldiv'>
+      <h1 className='htmlh1'>TAILWIND CSS</h1>
+      </div>
     </div>
     
       </div>
@@ -34,4 +41,4 @@ const Skills = () => {
   )
 }
 
-export default Skills
+export default Skills;
