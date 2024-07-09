@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import About from "./About";
 import Home from "./Home";
 import Skills from "./Skills";
+
 const App = () => {
   return (
       <Router>
