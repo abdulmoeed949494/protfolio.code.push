@@ -4,7 +4,7 @@
 
 /* App.js header */
 
-/* * {
+* {
     margin: 0px;
     padding: 0px;
 }
@@ -63,7 +63,6 @@
     margin-top: 10px;
     margin-left: 10px;
     font-size: 1.8rem;
-    color: black;
 }
 
 .contactbtn:hover {
@@ -71,14 +70,19 @@
     align-items: center;
     color: blueviolet;
     font-size: 2rem;
-} */
+} 
+
+.btnmode{
+    margin-top: 12px;
+    font-size: 2rem;
+}
+
+/* App.js header
+
 
 /* App.js header */
 
-
-/* App.js header */
-
-* {
+/* * {
     margin: 0px;
     padding: 0px;
 }
@@ -152,12 +156,14 @@
     font-size: 2rem;
 } 
 
+*/
+
 /* App.js header */
 
 
 /* Home.js */
 
-/* .homemain {
+.homemain {
     gap: 30px;
     margin-top: 120px;
     margin-left: 100px;
@@ -289,14 +295,14 @@
     width: 346px;
     height: 345px;
     border-radius: 200px;
-} */
+}
 
 /* Home.js */
 
 
 /* Home.js */
 
-.home {
+/* .home {
     border: 3px solid black;
     background-color: black;
     height: 695px;   
@@ -439,14 +445,14 @@
     width: 346px;
     height: 345px;
     border-radius: 200px;
-}
+} */
 
 /* Home.js */
 
 
 /* About.js */
 
-/* .aboutmain {
+.aboutmain {
     width: 100%;
 }
 
@@ -503,14 +509,14 @@
     margin-left: 90px;
     margin-top: -80px;
     width: 33vw;
-} */
+}
 
 /* About.js */
 
 
 /* About.js */
 
-.aboutmain {
+/* .aboutmain {
     border: 2px solid black;
     background-color: black;
     width: 100%;
@@ -572,14 +578,14 @@
     margin-left: 90px;
     margin-top: -80px;
     width: 33vw;
-}
+} */
 
 /* About.js */
 
 
 /* Skills.js */
 
-/* .skillsmaindiv {
+.skillsmaindiv {
     width: 100%;
     height: 690px;
     display: flex;
@@ -700,14 +706,14 @@
     position: absolute;
     width: 27px;
     color: blue;
-} */
+}
 
 /* Skills.js */
 
 
 /* Skills.js */
 
-.skillsmaindiv {
+/* .skillsmaindiv {
     width: 100%;
     height: 690px;
     display: flex;
@@ -835,14 +841,14 @@
     position: absolute;
     width: 27px;
     color: blue;
-}
+} */
 
 /* Skills.js */
 
 
 /* Contact.js */
 
-/* .contactmain {
+.contactmain {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -915,14 +921,14 @@
     color: blueviolet;
     border: 4px solid black;
     border-radius: 10px;
-} */
+}
 
 /* Contact.js */
 
 
 /* Contact.js */
 
-.contactmain {
+/* .contactmain {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1003,7 +1009,7 @@
     color: blueviolet;
     border: 4px solid white;
     border-radius: 10px;
-}
+} */
 
 /* Contact.js */
 
